@@ -36,9 +36,6 @@ broadscope_bailian
 # google
 google-generativeai
 
-# linkai
-linkai>=0.0.3.5
-
 # dingtalk
 dingtalk_stream
 
